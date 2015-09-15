@@ -21,7 +21,7 @@
     "rsvp": "^3.0.18",
     "semver": "^5.0.1",
     "systemjs": "0.18.17",
-    "systemjs-builder": "0.13.5",
+    "systemjs-builder": "git+https://github.com/hmalphettes/builder.git",
     "traceur": "0.0.91",
     "uglify-js": "~2.4.23"
   },
